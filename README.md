@@ -23,6 +23,6 @@ PRIVATE_KEY_1= fill your pvkey on sui wallet
 PRIVATE_KEY_2= fill your pvkey on sui wallet
 
 ~ Run script
-``
+```
 node lim.js
-``
+```
