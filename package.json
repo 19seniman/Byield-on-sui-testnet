@@ -2,7 +2,7 @@
   "name": "byieldBot on Sui Testnet",
   "version": "1.0.0",
   "description": "Automated trading bot for Byield protocol on Sui testnet that performs SUI to nBTC swaps",
-  "main": "index.js",
+  "main": "lim.js",
   "scripts": {
     "start": "node lim.js",
     "dev": "nodemon lim.js",
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikitoshi/Byield-Auto-Bot.git"
+    "url": "https://github.com/19seniman/Byield-on-sui-testnet.git"
   },
   "bugs": {
-    "url": "https://github.com/vikitoshi/Byield-Auto-Bot/issues"
+    "url": "https://github.com/19seniman/Byield-on-sui-testnet.git/issues"
   },
-  "homepage": "https://github.com/vikitoshi/Byield-Auto-Bot#readme",
+  "homepage": "https://github.com/19seniman/Byield-on-sui-testnet.git#readme",
   "dependencies": {
     "@mysten/sui.js": "^0.54.1",
     "dotenv": "^16.3.1",
